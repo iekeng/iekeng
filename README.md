@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 
 Hello there! 👋 I'm Edward Iniko, a dedicated fullstack software engineer and DevOps enthusiast on a mission to craft seamless digital experiences. With a deep passion for both frontend and backend development, I thrive on turning innovative ideas into robust, scalable solutions while ensuring smooth and efficient deployment pipelines.  
 
-🛠️ Tech Stack:  
-
-Frontend: ReactJs  
-Backend: Flask, Django, NodeJs, ExpressJs  
-Database: MongoDb, MySQL, PostgreSQL  
-DevOps: Jenkins, Ansible, PagerDuty, DataDog  
+🛠️ **Tech Stack:**   
+**Frontend:** ReactJs  
+**Backend:** Flask, Django, NodeJs, ExpressJs  
+**Database:** MongoDb, MySQL, PostgreSQL  
+**DevOps:** Jenkins, Ansible, PagerDuty, DataDog  
   
-💡 What Drives Me:  
+💡 **What Drives Me:**    
 I'm on the lookout for opportunities to push the boundaries of what technology can achieve. Whether it's building elegant user interfaces, optimizing backend performance, or architecting robust systems with a keen focus on DevOps best practices, I love the challenge of creating solutions that make a real impact.  
 
 <!--🌐 Open Source Enthusiast:  
@@ -35,12 +34,12 @@ I believe in the power of collaboration, and you can often find me contributing 
 [Highlight specific skills and strengths]  
 [Mention any relevant certifications or achievements]-->
 Proficient in implementing and optimizing DevOps processes for continuous integration and deployment.  
-🔗 Connect with Me:  
+🔗**Connect With Me:**  
 Let's connect and discuss all things tech! Feel free to reach out for collaboration, discussions, or just to geek out about the latest in the tech world.  
   
-📬 Contact:  
+📬 **Contact:**   
   
-LinkedIn: linkedin.com/in/edwardiniko  
-Email: edwardiniko@aol.com
+**LinkedIn:** linkedin.com/in/edwardiniko  
+**Email:** edwardiniko@aol.com
   
 Let's code something amazing together and streamline the development process! 💻✨  
