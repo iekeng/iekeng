@@ -23,6 +23,7 @@ Frontend: ReactJs
 Backend: Flask, Django, NodeJs, ExpressJs  
 Database: MongoDb, MySQL, PostgreSQL  
 DevOps: Jenkins, Ansible, PagerDuty, DataDog  
+  
 💡 What Drives Me:  
 I'm on the lookout for opportunities to push the boundaries of what technology can achieve. Whether it's building elegant user interfaces, optimizing backend performance, or architecting robust systems with a keen focus on DevOps best practices, I love the challenge of creating solutions that make a real impact.  
 
@@ -39,6 +40,7 @@ Let's connect and discuss all things tech! Feel free to reach out for collaborat
   
 📬 Contact:  
   
-LinkedIn: [linkedin.com/in/edwardiniko]  
-Email: [edwardiniko@aol.com]  
+LinkedIn: linkedin.com/in/edwardiniko  
+Email: edwardiniko@aol.com
+  
 Let's code something amazing together and streamline the development process! 💻✨  
