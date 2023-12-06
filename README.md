@@ -31,8 +31,9 @@ I believe in the power of collaboration, and you can often find me contributing 
 🚀 What I Bring to the Table:  
    
 [Highlight specific skills and strengths]  
-[Mention any relevant certifications or achievements]-->
-Proficient in implementing and optimizing DevOps processes for continuous integration and deployment.  
+[Mention any relevant certifications or achievements]
+Proficient in implementing and optimizing DevOps processes for continuous integration and deployment.-->
+  
 🔗 **Connect With Me:**  
 Let's connect and discuss all things tech! Feel free to reach out for collaboration, discussions, or just to geek out about the latest in the tech world.  
   
