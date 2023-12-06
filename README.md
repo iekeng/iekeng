@@ -40,6 +40,6 @@ Let's connect and discuss all things tech! Feel free to reach out for collaborat
 📬 **Contact:**   
   
 **LinkedIn:** linkedin.com/in/edwardiniko  
-**Email:** edwardiniko@aol.com
+**Email:** ekeng7.eb@gmail.com
   
 Let's code something amazing together and streamline the development process! 💻✨  
