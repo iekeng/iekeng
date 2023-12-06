@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hello there! 👋 I'm Edward Iniko, a dedicated fullstack software engineer and DevOps enthusiast on a mission to craft seamless digital experiences. With a deep passion for both frontend and backend development, I thrive on turning innovative ideas into robust, scalable solutions while ensuring smooth and efficient deployment pipelines.  
+I'm Edward Iniko, a dedicated fullstack software engineer and DevOps enthusiast on a mission to craft seamless digital experiences. With a deep passion for both frontend and backend development, I thrive on turning innovative ideas into robust, scalable solutions while ensuring smooth and efficient deployment pipelines.  
 
 🛠️ **Tech Stack:**   
 **Frontend:** ReactJs  
@@ -34,7 +33,7 @@ I believe in the power of collaboration, and you can often find me contributing 
 [Highlight specific skills and strengths]  
 [Mention any relevant certifications or achievements]-->
 Proficient in implementing and optimizing DevOps processes for continuous integration and deployment.  
-🔗**Connect With Me:**  
+🔗 **Connect With Me:**  
 Let's connect and discuss all things tech! Feel free to reach out for collaboration, discussions, or just to geek out about the latest in the tech world.  
   
 📬 **Contact:**   
