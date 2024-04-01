@@ -42,5 +42,5 @@ Let's connect and discuss all things tech! Feel free to reach out for collaborat
 **LinkedIn:** linkedin.com/in/edwardiniko  
 **Email:** ekeng7.eb@gmail.com
   
-Read my [CV] (https://read.cv/edwardiniko)  
+Read my <a href='https://read.cv/edwardinko'>CV</a>
 Let's code something amazing together and streamline the development process! 💻✨  
